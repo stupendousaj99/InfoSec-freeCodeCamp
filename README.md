@@ -3,3 +3,6 @@
 This is the boilerplate for the Information Security lessons. Instructions for completing these lessons start at https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/
 
 For more information check out UsefulProgrammer.org
+
+Our build command is npm install
+Our start command is npm start
